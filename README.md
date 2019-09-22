@@ -1,2 +1,2 @@
 # sulama
-Akıllı saksı projesi. Amacını bende çözemedim. Kodları okuyarak amacını anlayabilirsiniz.
+Saksıya takılan sistemlerle saksıyı tam otomatik yapabilecek bir sistem.
